@@ -65,30 +65,35 @@ opportunities: Software Engineering / Flutter Internships
 ## 📊 GitHub Stats
 
 
+
+<h2 align="center">📊 My GitHub Statistics</h2>
+
 <div align="center">
 
-  <h2>📊 My GitHub Statistics</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="./assets/overview.dark.svg" />
+    <img src="./assets/overview.light.svg"
+      alt="GitHub Overview" width="95%" />
+  </picture>
 
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=vihanga23228&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Vihanga's GitHub Stats"
-    height="165"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="./assets/languages.dark.svg" />
+    <img src="./assets/languages.light.svg"
+      alt="Programming Languages" width="95%" />
+  </picture>
 
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=vihanga23228&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-    height="165"
-  />
-
-  <br/>
-
-  <img
-    src="https://streak-stats.demolab.com/?user=vihanga23228&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="./assets/contributions.dark.svg" />
+    <img src="./assets/contributions.light.svg"
+      alt="GitHub Contributions and Streaks"
+      width="95%" />
+  </picture>
 
 </div>
+
 
 
 <!-- Optional: add a contribution snake animation after setting up the GitHub Action. -->
