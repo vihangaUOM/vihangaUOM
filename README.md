@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=vihanga23228&style=for-the-badge&color=7c3aed)
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vihanga23228)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vihangaUOM)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vihangamanasara7@gmail.com)
 <!-- Replace the placeholder below with your verified LinkedIn profile URL, then remove this comment. -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
@@ -18,13 +18,13 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Vihanga Manasara
-education: BSc (Hons) Information Technology
-university: University of Moratuwa, Sri Lanka
-current_focus: [Software Engineering, Full-Stack, Flutter]
-interests: [AI-integrated Apps, IoT, Backend Engineering]
-mindset: Quick learner • Adaptable • Team player
-opportunities: Software Engineering / Flutter Internships
+Name: Vihanga Manasara
+Education: BSc (Hons) Information Technology
+University: University of Moratuwa, Sri Lanka
+Current_focus: [Software Engineering, Full-Stack, Flutter]
+Interests: [AI-integrated Apps, IoT, Backend Engineering]
+Mindset: Quick learner • Adaptable • Team player
+Opportunities: Software Engineering / Flutter Internships / Full stack Engineering
 ```
 
 - 🎓 Third-year **Information Technology undergraduate** at the **University of Moratuwa**.
@@ -102,7 +102,7 @@ opportunities: Software Engineering / Flutter Internships
 
 I'm open to **software engineering, backend, full-stack, and Flutter internship opportunities**. If you're working on an interesting project, feel free to reach out!
 
-📧 **Email:** [vihangamanasara7@gmail.com](mailto:vihangamanasara7@gmail.com)
+📧 **Email:** [vihangamanasara7@gmail.com](mailto:vihangamanasara7@gmail.com) / [premathilakakavm.23@uom.lk](mailto:premathilakakavm.23@uom.lk)
 
 <div align="center">
 
