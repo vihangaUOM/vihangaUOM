@@ -21,7 +21,7 @@ jobs:
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: vihanga23228
+          username: vihangaUOM
           cards: overview,languages,contributions
           output-dir: assets
           themes: light,dark
